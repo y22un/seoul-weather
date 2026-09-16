@@ -168,10 +168,7 @@ st.caption(
     "greatsong/modudata의 seoul.csv"
 )
 ```
-```text
-streamlit
-pandas
-```
+
 내 저장소/
 ├── main.py
 └── requirements.txt
