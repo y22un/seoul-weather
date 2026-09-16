@@ -168,7 +168,3 @@ st.caption(
     "greatsong/modudata의 seoul.csv"
 )
 ```
-
-내 저장소/
-├── main.py
-└── requirements.txt
