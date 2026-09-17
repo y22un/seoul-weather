@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import pandas as pd
 
@@ -167,4 +167,3 @@ st.caption(
     "데이터 출처: 기상청 서울 지점(108) 관측자료 / "
     "greatsong/modudata의 seoul.csv"
 )
-```
